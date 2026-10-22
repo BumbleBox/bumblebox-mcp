@@ -1,0 +1,11 @@
+{
+  "name": "bumblebox",
+  "owner": { "name": "BumbleBox", "url": "https://bumblebox.ai" },
+  "plugins": [
+    {
+      "name": "bumblebox",
+      "source": "./plugins/bumblebox",
+      "description": "Search and triage every mailbox, list emails awaiting a reply, prepare reply and campaign drafts, reply at the level you set in BumbleBox, tidy on request."
+    }
+  ]
+}

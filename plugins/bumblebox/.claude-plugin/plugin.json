@@ -1,0 +1,9 @@
+{
+  "name": "bumblebox",
+  "version": "2.1.0",
+  "description": "BumbleBox email intelligence: search and read every connected mailbox, list emails awaiting a reply, prepare reply and campaign drafts, reply at the level set in BumbleBox. Never deletes permanently.",
+  "author": { "name": "BumbleBox", "url": "https://bumblebox.ai" },
+  "homepage": "https://bumblebox.ai/integrations",
+  "license": "MIT",
+  "keywords": ["email", "inbox", "gmail", "outlook", "imap", "mcp"]
+}

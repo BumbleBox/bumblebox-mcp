@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ai.bumblebox/mail",
+  "title": "BumbleBox",
+  "description": "Search and triage all your mailboxes; draft replies and campaigns; send only as you allow.",
+  "version": "2.1.0",
+  "websiteUrl": "https://bumblebox.ai/integrations",
+  "repository": { "url": "https://github.com/BumbleBox/bumblebox-mcp", "source": "github" },
+  "icons": [
+    {
+      "src": "https://bumblebox.ai/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
+  "remotes": [{ "type": "streamable-http", "url": "https://api.bumblebox.ai/api/mcp" }]
+}

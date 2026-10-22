@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "bumblebox": { "type": "http", "url": "https://api.bumblebox.ai/api/mcp" }
+  }
+}
