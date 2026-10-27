@@ -1,5 +1,7 @@
 # BumbleBox MCP server
 
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/bumblebox/bumblebox-mcp) [![mcptry](https://mcptry.com/badge/ai.bumblebox/mail)](https://mcptry.com/servers/ai.bumblebox/mail)
+
 Email intelligence for people running several businesses, inside your AI assistant.
 [BumbleBox](https://bumblebox.ai) triages every connected mailbox (Gmail, Outlook, any IMAP);
 this remote MCP server lets Claude, ChatGPT, Cursor, VS Code or any MCP client work with it.
